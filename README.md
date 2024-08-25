@@ -7,6 +7,7 @@ Welcome to my repository for Data Structures and Algorithms (DSA) This repositor
 - **Arrays**: Problems related to arrays operations.
 - **SortingAlgorithms**: Various sorting algorithms like Selection sort and Bubble sort and their implementations.
 - **SearchingAlgorithms**: Linear search and Binary search
+- **LinkedListOperations**: Linked List creation, traversal, insertion and deletion
 
 ## Languages Used
 
