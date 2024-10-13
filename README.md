@@ -8,8 +8,8 @@ Welcome to my repository for Data Structures and Algorithms (DSA) This repositor
 - **SortingAlgorithms**: Various sorting algorithms like Selection sort and Bubble sort and their implementations.
 - **SearchingAlgorithms**: Linear search and Binary search
 - **LinkedListOperations**: Linked List creation, traversal, insertion and deletion
-- **Stack**: Push, Pop and Print operations in Array and Linked List
+- **Stack**: Push, Pop and Print operations in Array and Linked List, Infix-Prefix-Postfix operations
 
 ## Languages Used
 
-- **C++**
+- **C/C++**
