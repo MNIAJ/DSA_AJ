@@ -9,6 +9,7 @@ Welcome to my repository for Data Structures and Algorithms (DSA) This repositor
 - **SearchingAlgorithms**: Linear search and Binary search
 - **LinkedListOperations**: Linked List creation, traversal, insertion and deletion
 - **Stack**: Push, Pop and Print operations in Array and Linked List, Infix-Prefix-Postfix operations
+- **CircularLinkedList**: Operations like creation, traversal, Insertion, Deletion
 
 ## Languages Used
 
